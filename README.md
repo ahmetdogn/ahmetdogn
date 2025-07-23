@@ -3,7 +3,6 @@ Studying at Technical University Berlin and passionate about software developmen
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aservice)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-ahmet-mehmet-dogan)
 
 # 🔧 Technologies & Frameworks
 
