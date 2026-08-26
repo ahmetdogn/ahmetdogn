@@ -59,20 +59,25 @@ Studying Computer Science (B.Sc.) at Technical University Berlin and passionate 
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats & Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aservices-xyz&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aservices-xyz&theme=shadow_red&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aservices-xyz&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aservices-xyz&theme=shadow_red&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aservices-xyz&theme=shadow_red&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=aservices-xyz&theme=shadow_red&hide_border=false" alt="GitHub Streak" width="97%" />
+</p>
+
+---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aservices-xyz&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4" alt="Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=aservices-xyz&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
