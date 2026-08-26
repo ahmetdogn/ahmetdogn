@@ -62,12 +62,11 @@ Studying Computer Science (B.Sc.) at Technical University Berlin and passionate 
 # 📊 GitHub Stats & Consistency
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aservices-xyz&theme=shadow_red&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aservices-xyz&theme=shadow_red&hide_border=false&layout=compact" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=aservices-xyz&theme=shadow_red&hide_border=false" alt="GitHub Streak" width="97%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmetdogn&theme=shadow_red&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetdogn&theme=shadow_red&hide_border=false&layout=compact" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ahmetdogn&theme=shadow_red&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -75,15 +74,13 @@ Studying Computer Science (B.Sc.) at Technical University Berlin and passionate 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=aservices-xyz&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmetdogn&theme=shadow_blue&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=aservices-xyz&icon=0&color=0" alt="Visitor Count" />
+    <img src="https://visitcount.itsvg.in/api?id=ahmetdogn&icon=0&color=0" alt="Visitor Count" />
   </a>
 </p>
