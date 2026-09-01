@@ -1,8 +1,18 @@
-# 💫 About Me
-Studying Computer Science (B.Sc.) at Technical University Berlin and passionate about full-stack software development, data engineering, cloud automation, and modern web architectures.
+<div align="center">
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aservice)
+  # 💫 Leon Ahmet Mehmet Dogan
+  ### Computer Science Student @ TU Berlin | Full-Stack & Data Engineer
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmetdogn)
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aservice)
+
+  ---
+
+</div>
+
+# 💫 About Me
+Studying Computer Science (B.Sc.) at Technical University Berlin and passionate about full-stack software development, data engineering, cloud automation, and modern web architectures. Specialized in building scalable data pipelines with **Apache Airflow 3** and high-performance applications.
 
 ---
 
@@ -48,11 +58,22 @@ Studying Computer Science (B.Sc.) at Technical University Berlin and passionate 
 
 # 📜 Certifications & Achievements
 
-- **Astronomer Certification DAG Authoring for Apache Airflow 3** (*Astronomer, Aug. 2026*)
-- **Astronomer Certification for Apache Airflow 3 Fundamentals** (*Astronomer, Aug. 2026*)
-- **Cloud Computing Course** (*Codecademy, Aug. 2026*)
-- **R for Programmers Course** (*Codecademy, Aug. 2026*)
-- **Learn C & Learn Lua Courses** (*Codecademy, Aug. 2026*)
-- **Learn HTML & Learn CSS Courses** (*Codecademy, Aug. 2026*)
-- **C2 Proficient English Certificate** (*International English Test, July 2025*)
-- **Coding Foundations** (*Sololearn, July 2025*)
+- 🚀 **Astronomer Certification DAG Authoring for Apache Airflow 3** (*Astronomer, Aug. 2026*)
+- 🚀 **Astronomer Certification for Apache Airflow 3 Fundamentals** (*Astronomer, Aug. 2026*)
+- ☁️ **Cloud Computing Course** (*Codecademy, Aug. 2026*)
+- 📊 **R for Programmers Course** (*Codecademy, Aug. 2026*)
+- 💻 **Learn C & Learn Lua Courses** (*Codecademy, Aug. 2026*)
+- 🌐 **Learn HTML & Learn CSS Courses** (*Codecademy, Aug. 2026*)
+- 🌍 **C2 Proficient English Certificate** (*International English Test, July 2025*)
+- ⚡ **Coding Foundations** (*Sololearn, July 2025*)
+
+---
+
+# 📈 GitHub Stats
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmetdogn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetdogn&layout=compact&theme=tokyonight&hide=html,css"/>
+
+</div>
