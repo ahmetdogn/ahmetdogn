@@ -1,6 +1,6 @@
 <div align="center">
 
-  # 💫 Leon Ahmet Mehmet Dogan
+  # 💫 Ahmet Dogan
   ### Computer Science Student @ TU Berlin | Full-Stack & Data Engineer
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
