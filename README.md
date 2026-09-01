@@ -74,6 +74,6 @@ Studying Computer Science (B.Sc.) at Technical University Berlin and passionate 
 <div align="center">
 
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetdogn&theme=tokyonight" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmetdogn&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmetdogn&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
 
 </div>
