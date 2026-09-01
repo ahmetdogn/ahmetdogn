@@ -58,14 +58,16 @@ Studying Computer Science (B.Sc.) at Technical University Berlin and passionate 
 
 # 📜 Certifications & Achievements
 
-- 🚀 **Astronomer Certification DAG Authoring for Apache Airflow 3** (*Astronomer, Aug. 2026*)
+- 🛡️ **Introduction to Cybersecurity Course** (*Codecademy, Sept. 2026*) `ID: D7846B58-4`
+- 🚀 **Astronomer Certification DAG Authoring for Apache Airflow 3** (*Astronomer, Aug. 2026*) `ID: eAi3599D`
 - 🚀 **Astronomer Certification for Apache Airflow 3 Fundamentals** (*Astronomer, Aug. 2026*)
-- ☁️ **Cloud Computing Course** (*Codecademy, Aug. 2026*)
-- 📊 **R for Programmers Course** (*Codecademy, Aug. 2026*)
-- 💻 **Learn C & Learn Lua Courses** (*Codecademy, Aug. 2026*)
-- 🌐 **Learn HTML & Learn CSS Courses** (*Codecademy, Aug. 2026*)
-- 🌍 **C2 Proficient English Certificate** (*International English Test, July 2025*)
-- ⚡ **Coding Foundations** (*Sololearn, July 2025*)
+- ☁️ **Cloud Computing Course** (*Codecademy, Aug. 2026*) `ID: 48ADC8D4-C`
+- 📊 **R for Programmers Course** (*Codecademy, Aug. 2026*) `ID: 797749CE-B`
+- 💻 **Learn C: Introduction Course** (*Codecademy, Aug. 2026*) `ID: 94823669-9`
+- 🌙 **Learn Lua Course** (*Codecademy, Aug. 2026*) `ID: E03BFA06-4`
+- 🌐 **Learn HTML: Fundamentals Course** (*Codecademy, Aug. 2026*) `ID: DE43A825-7`
+- 🎨 **Learn CSS: Introduction Course** (*Codecademy, Aug. 2026*) `ID: 870FAC42-7`
+- 🌍 **C2 Proficient English Certificate** (*International English Test, July 2025*) `ID: 735B26BEF7-735B26BF5C-735B2673F4`
 
 ---
 
