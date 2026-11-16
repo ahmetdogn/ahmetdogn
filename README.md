@@ -8,10 +8,8 @@
 
 📍 Berlin, Germany · 🌍 English (C2) · Open to Working Student, Internship & Junior Roles
 
-<!-- TODO: Ersetze den LinkedIn-Link durch deine echte Profil-URL, z. B. https://www.linkedin.com/in/dein-name -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmet%20Dogan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmet%20Dogan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leon-ahmet-mehmet-dogan/)
 [![GitHub](https://img.shields.io/badge/GitHub-ahmetdogn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahmetdogn)
-[![Discord](https://img.shields.io/badge/Discord-Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aservice)
 
 </div>
 
